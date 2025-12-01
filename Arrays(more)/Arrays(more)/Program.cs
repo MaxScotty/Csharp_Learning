@@ -1,28 +1,22 @@
 ﻿using System;
-using System.Linq;
 
-/*namespace Arr
+namespace Arrays_more_
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
-            int[] myArray = { 111, 10, 4, 10, 111, 64, 77, 4, 42, 5 };
+            int[,] myArray =   
+            {
+                {2, 5, 7, 9, 7},
+                {6, 1, 57, 9, 13},
+                {50, 8, 98, 12, 87},
+                {987, 19, 49, 917, 1}
+            }; //[строка, колонка]
 
-            Array.Reverse(myArray);
-        }
-    }
-}
-*/
+            //Console.WriteLine(myArray.Rank); // сколько измерений содержит массив
 
-
-namespace Index
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            int[] myArray = { 2, 10, 5, 6, 77, 89 };
+            //myArray.GetLength(0); //сколько элеметов в массиве (в нашем случае, в первом)
         }
     }
 }
