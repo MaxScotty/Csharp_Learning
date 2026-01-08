@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\-\\Desktop\\Csharp_Learning\\Functions and methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B83098FE-2B60-4EAA-8970-77341AE78AB2}|Functions and methods\\Functions and methods.csproj|c:\\users\\-\\desktop\\csharp_learning\\functions and methods\\functions and methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83098FE-2B60-4EAA-8970-77341AE78AB2}|Functions and methods\\Functions and methods.csproj|solutionrelative:functions and methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\-\\Desktop\\Csharp_Learning\\Functions and methods\\Functions and methods\\Program.cs",
+              "RelativeDocumentMoniker": "Functions and methods\\Program.cs",
+              "ToolTip": "C:\\Users\\-\\Desktop\\Csharp_Learning\\Functions and methods\\Functions and methods\\Program.cs*",
+              "RelativeToolTip": "Functions and methods\\Program.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T18:00:49.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
